@@ -17,7 +17,7 @@
         <div class="input-group mb-3">
             <input type="text" class="form-control" placeholder="Enter Mobile Number" name="input" aria-label="Recipient's username" aria-describedby="button-addon2">
             <div class="input-group-append">
-                <button class="btn btn-primary" type="button" name="submit" id="button-addon2">Submit</button>
+                <button class="btn btn-primary" type="submit" name="submit" id="button-addon2">Submit</button>
             </div>
         </div>
     </form>
